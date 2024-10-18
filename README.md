@@ -1,5 +1,3 @@
-markdown
-Copy code
 # **Sign Language Detector**
 
 This repository aims to **train models** capable of making **real-time predictions** of sign language letters based on input from a **camera**. The project leverages **two datasets** and **three models** to improve accuracy and performance. It emphasizes the importance of **feature engineering** for achieving reliable predictions.
