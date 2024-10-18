@@ -15,7 +15,7 @@ The main goal of this project is to enable **real-time detection of sign languag
 ## **Datasets Used**
 
 1. **MNIST Sign Language Dataset**  
-   - Contains images of hand signs representing letters from A-Z.  
+   - Contains images of hand signs representing letters from A-Y (No J and Z).  
    - Used primarily for training a **CNN model** and **XGBoost model**.
 
 2. **ASL Sign Language Dataset**  
@@ -66,4 +66,11 @@ The main goal of this project is to enable **real-time detection of sign languag
    - The **camera input** provides a stream of video frames.  
    - The trained models predict the **letter being signed** in real-time.
 
----
+## ** Data **
+
+The Data such as zipped training and test data, as well as parquets of the features used can be found in this google drive:
+https://drive.google.com/drive/folders/1hYmc8fmFdoNagUPByilGwVaeJp9ifKzh?usp=sharing
+
+The Origional Datasets can be found at the following websites:
+   - https://www.kaggle.com/datasets/datamunge/sign-language-mnist/data
+   - https://www.kaggle.com/datasets/grassknoted/asl-alphabet/data
