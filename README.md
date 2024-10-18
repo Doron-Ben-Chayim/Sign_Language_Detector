@@ -64,7 +64,8 @@ The main goal of this project is to enable **real-time detection of sign languag
    - The **camera input** provides a stream of video frames.  
    - The trained models predict the **letter being signed** in real-time.
 
-## ** Data **
+---
+## **Data**
 
 The Data such as zipped training and test data, as well as parquets of the features used can be found in this google drive:
 https://drive.google.com/drive/folders/1hYmc8fmFdoNagUPByilGwVaeJp9ifKzh?usp=sharing
