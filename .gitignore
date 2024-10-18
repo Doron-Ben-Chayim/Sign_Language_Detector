@@ -1,0 +1,8 @@
+data/asl_alphabet_test/
+data/asl_alphabet_train/
+data/sign_mnist_test/
+data/sign_mnist_train/
+data/asl.zip
+debug.ipynb
+shape_predictor_68_face_landmarks.dat
+data/
