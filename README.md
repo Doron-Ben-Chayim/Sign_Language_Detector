@@ -67,7 +67,7 @@ The main goal of this project is to enable **real-time detection of sign languag
 ---
 ## **Data**
 
-The Data such as zipped training and test data, as well as parquets of the features used can be found in this google drive:
+The data such as parquets of the features used can be found in this google drive:
 https://drive.google.com/drive/folders/1hYmc8fmFdoNagUPByilGwVaeJp9ifKzh?usp=sharing
 
 The Origional Datasets can be found at the following websites:
